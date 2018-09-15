@@ -12,7 +12,7 @@
 		987AF0EB214CB12400AAE972 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 987AF0EA214CB12400AAE972 /* Assets.xcassets */; };
 		987AF0EE214CB12400AAE972 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 987AF0EC214CB12400AAE972 /* LaunchScreen.storyboard */; };
 		98ADD492214CB41700FCA1B4 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ADD491214CB41700FCA1B4 /* LoginViewController.swift */; };
-		98ADD494214CB88700FCA1B4 /* TablieTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ADD493214CB88700FCA1B4 /* TablieTableViewController.swift */; };
+		98ADD494214CB88700FCA1B4 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ADD493214CB88700FCA1B4 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		987AF0ED214CB12400AAE972 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		987AF0EF214CB12400AAE972 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98ADD491214CB41700FCA1B4 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		98ADD493214CB88700FCA1B4 /* TablieTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablieTableViewController.swift; sourceTree = "<group>"; };
+		98ADD493214CB88700FCA1B4 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				987AF0EC214CB12400AAE972 /* LaunchScreen.storyboard */,
 				987AF0EF214CB12400AAE972 /* Info.plist */,
 				98ADD491214CB41700FCA1B4 /* LoginViewController.swift */,
-				98ADD493214CB88700FCA1B4 /* TablieTableViewController.swift */,
+				98ADD493214CB88700FCA1B4 /* TableViewController.swift */,
 			);
 			path = UITestingTutorial;
 			sourceTree = "<group>";
@@ -139,7 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98ADD492214CB41700FCA1B4 /* LoginViewController.swift in Sources */,
-				98ADD494214CB88700FCA1B4 /* TablieTableViewController.swift in Sources */,
+				98ADD494214CB88700FCA1B4 /* TableViewController.swift in Sources */,
 				987AF0E4214CB12300AAE972 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
